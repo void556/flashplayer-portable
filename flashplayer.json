@@ -1,0 +1,14 @@
+{
+    "version": "32.0.0.465",
+    "url": "https://github.com/void556/flashplayer-portable/releases/download/v32.0.0.465/flashplayer_32_sa.exe",
+    "hash": "PASTE_SHA256_HASH_OF_THE_EXE_HERE",
+    "bin": [
+        ["flashplayer_32_sa.exe", "flashplayer"]
+    ],
+    "shortcuts": [
+        [
+            "flashplayer_32_sa.exe",
+            "Adobe Flash Player 32"
+        ]
+    ]
+}
