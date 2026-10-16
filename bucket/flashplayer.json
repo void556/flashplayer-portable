@@ -1,6 +1,6 @@
 {
     "version": "32.0.0.465",
-    "url": "https://github.com/void556/flashplayer-portable/releases/download/v32.0.0.465/flashplayer_32_sa.exe",
+    "url": "https://github.com/void556/flashplayer-portable/releases/download/32.0.0.465/flashplayer_32_sa.exe",
     "hash": "ab682ed56c9518621776fd5f101b0fb44fb6355423ca1ffd6b572651148bd231",
     "bin": [
         ["flashplayer_32_sa.exe", "flashplayer"]
